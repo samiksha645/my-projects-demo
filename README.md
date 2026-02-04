@@ -1,3 +1,3 @@
 # my-projects-demo
 this is my first git repository.
-Author - samiksha singh
+<h1>Author - samiksha singh</h1>
